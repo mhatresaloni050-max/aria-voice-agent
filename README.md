@@ -2,7 +2,7 @@
 A browser-based voice customer support agent. Open the page, click **Start call**, and talk to Aria.
 She answers brand and policy questions and looks up live order details with a tool call.
 
-**Live demo:** aria-voice-agent-beta.vercel.app (use Chrome or Edge and allow the microphone)
+**Live demo:** https://aria-voice-agent-beta.vercel.app (use Chrome or Edge and allow the microphone)
 
 ## Architecture
 
